@@ -20,6 +20,8 @@
 
 - mv ➡️ mover arquivos entre pastas "./nome-da-pasta"
 
+- git push origin --delete "Nome do arquivo" ➡️ Comando usado para deletar branchs remotas do github
+
 
 
 ### Criar arquivos
